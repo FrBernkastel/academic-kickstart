@@ -18,18 +18,54 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MySQL/PostgreSQL"
+  description = ""
+
+[[feature]]
+  icon = "splotch"
+  icon_pack = "fas"
+  name = "Hadoop/Spark"
+  description = ""
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Tableau/Google Analytics"
+  description = ""  
+  
+[[feature]]
+  icon = "forward"
+  icon_pack = "fas"
+  name = "ETL Pipeline"
+  description = ""
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS/Azure"
+  description = ""
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = ""  
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = ""
 
 +++
